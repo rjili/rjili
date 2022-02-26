@@ -5,4 +5,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rjili&show_icons=true&theme=dracula&layout=compact" alt="rjili" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjili&" alt="rjili" /></p>
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjili&" alt="rjili" />
